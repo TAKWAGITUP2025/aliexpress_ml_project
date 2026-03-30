@@ -14,9 +14,6 @@ notebooks/.venv/
 .ipynb_checkpoints/
 *.ipynb_checkpoints
 
-# Data (ignore by default — add exceptions if you need to track specific files)
-/data/
-!data/.gitkeep
 
 # Logs and runtime files
 logs/
